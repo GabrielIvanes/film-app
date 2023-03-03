@@ -1,4 +1,4 @@
-const apiKey = "c90b594d";
+const apiKey = "apiKey";
 
 const recherche = document.querySelector(".search-box button");
 const mainBox = document.querySelector(".main-box");
